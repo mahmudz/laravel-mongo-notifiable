@@ -1,0 +1,24 @@
+{
+    "name": "mahmudz/laravel-mongo-notifiable",
+    "description": "Notifiable trait compatible with laravel-mongodb official package",
+    "keywords": [
+        "mahmudz",
+        "laravel-mongo-notifiable"
+    ],
+    "homepage": "https://github.com/alexzvn/laravel-mongo-notifiable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mahmudul Hasan",
+            "email": "mahmudbappy.pri@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mahmudz\\LaravelMongoNotifiable\\": "src/"
+        }
+    }
+}

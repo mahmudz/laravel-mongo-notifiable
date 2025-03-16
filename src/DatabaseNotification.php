@@ -3,6 +3,7 @@
 namespace Mahmudz\LaravelMongoNotifiable;
 
 use Illuminate\Database\Eloquent\Builder;
+use Illuminate\Notifications\DatabaseNotificationCollection;
 use MongoDB\Laravel\Eloquent\Model;
 
 class DatabaseNotification extends Model
